@@ -1,0 +1,10 @@
+.nav-link {
+    transition: background-color 0.3s ease; /*色の変化が滑らかに0.3秒かけて行われるように設定*/
+}
+
+.nav-link:hover {
+    color: lightcoral;
+}
+.color-nav-link{
+    color: lightcoral;
+}
